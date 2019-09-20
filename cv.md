@@ -31,3 +31,7 @@
         return m==a ? i-1:-1;
     }
 ```
+
+6. Сoding tests, application development, team work, editing of html-pages
+7. Education: Bachelor of Engineering, Master of Engineering; Courses: RS School, Codecademy
+8. B2 english level, reading English media, communicating on social media
