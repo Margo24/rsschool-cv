@@ -1,0 +1,31 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1024;
+    background-color: lightblue;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 36px;
+    font-family: "Arial", sans-serif;
+    color: indigo;
+}
+
+h3 {
+    font-style: italic;
+    margin: 10px 0px 0px 0px;
+}
+.contacts {
+    margin-top: 10px;
+}
+main {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+section {
+   width: 50%;
+}
