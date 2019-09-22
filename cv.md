@@ -32,5 +32,5 @@
         }
     ```
 6. Сoding tests, application development, team work, editing of html-pages
-7. Education: Bachelor of Engineering, Master of Engineering; Courses: RS School, Codecademy
-8. B2 english level, reading English media, communicating on social media
+7. Education: Bachelor of Engineering, Master of Engineering; Courses: RS School, Codecademy, 
+8. B2 English level, reading English media, communicating on social media, technical documentation reading
