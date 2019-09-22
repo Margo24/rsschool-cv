@@ -1,7 +1,7 @@
 .container {
     width: 80%;
     margin: 0 auto;
-    max-width: 1024;
+    max-width: 1024px;
     background-image: url("background-picture.jpg");
     background-repeat: repeat-y;
 }
@@ -9,37 +9,40 @@
 h1 {
     font-weight: bold;
     font-size: 36px;
-    font-family: "Georgia", serif;
+    font-family: "Calisto MT", serif;
     color: indigo;
 }
 
 h3 {
-    font-style: italic;
     margin: 10px 0px 0px 0px;
+    font-style: italic;
 }
 
 .contacts {
     margin-top: 10px;
     font-family: "Times New Roman", serif;
 }
+
 main {
     display: flex;
     width: 100%;
     justify-content: space-between;
     flex-direction: row;
-    font-family: "Helvetica", "Tahoma", serif;
+    font-family: "Garamond", "Tahoma", serif;
     font-size: 18px;
 }
+
 footer {
     margin: 10px;
 }
 
-header{
+header {
     margin: 10px;
 }
+
 img {
-    border-radius: 50%;
     margin: 15px;
+    border-radius: 50%;
 }
 
 section {
